@@ -1,0 +1,10 @@
+insert: 3
+inSert:-2
+Insert:111
+reverse
+print
+delete: 3
+deLete:-2
+reverse
+prinT
+delete
